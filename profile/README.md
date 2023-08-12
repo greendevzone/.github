@@ -1,6 +1,3 @@
-Certainly! Here's an example of a README.md code template for your organization's GitHub profile, including the categories you mentioned:
-
-```markdown
 # GreenDev
 
 Welcome to GreenDev, a GitHub organization focused on providing business and website solutions. We specialize in various development areas, offering expertise in Ecommerce development, Blockchain development, DB and Backend development, Frontend development, Salesforce development, AWS development, and DevOps engineering.
@@ -47,7 +44,3 @@ Feel free to explore, contribute, and collaborate with us!
 If you have any questions, suggestions, or would like to discuss a potential project, please feel free to reach out to us at [contact@greendev.com](mailto:contact@greendev.com).
 
 We look forward to hearing from you!
-
-```
-
-Feel free to customize this template to fit your organization's specific details, such as adding your organization's logo, contact information, and any additional sections you may need.
