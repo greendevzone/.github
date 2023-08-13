@@ -1,4 +1,4 @@
-# GreenDev
+# Ommicle Verdevor
 
 Welcome to GreenDev, a GitHub organization focused on providing business and website solutions. We specialize in various development areas, offering expertise in Ecommerce development, Blockchain development, DB and Backend development, Frontend development, Salesforce development, AWS development, and DevOps engineering.
 
