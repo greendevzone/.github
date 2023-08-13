@@ -2,7 +2,7 @@
 
 Welcome to GreenDev, a GitHub organization focused on providing business and website solutions. We specialize in various development areas, offering expertise in Ecommerce development, Blockchain development, DB and Backend development, Frontend development, Salesforce development, AWS development, and DevOps engineering.
 
-## Categories
+## Services
 
 ### Ecommerce Development
 This category focuses on building robust and scalable ecommerce solutions. We leverage modern frameworks and technologies to create seamless online shopping experiences for businesses and consumers.
@@ -29,18 +29,18 @@ In this category, we bridge the gap between development and operations. We utili
 
 To learn more about each category or explore our projects, please visit the respective repositories linked below:
 
-- [Ecommerce Development](https://greendevzone.github.io/ecommerce-development)
-- [Blockchain Development](https://greendevzone.github.io/blockchain-development)
-- [DB and Backend Development](https://greendevzone.github.io/db-backend-development)
-- [Frontend Development](https://greendevzone.github.io/frontend-development)
-- [Salesforce Development](https://greendevzone.github.io/salesforce-development)
-- [AWS Development](https://greendevzone.github.io/aws-development)
-- [DevOps Engineering](https://greendevzone.github.io/devops-engineering)
+- [Ecommerce Development](https://verdevor.github.io/ecommerce-development)
+- [Blockchain Development](https://verdevor.github.io/blockchain-development)
+- [DB and Backend Development](https://verdevor.github.io/db-backend-development)
+- [Frontend Development](https://verdevor.github.io/frontend-development)
+- [Salesforce Development](https://verdevor.github.io/salesforce-development)
+- [AWS Development](https://verdevor.github.io/aws-development)
+- [DevOps Engineering](https://verdevor.github.io/devops-engineering)
 
 Feel free to explore, contribute, and collaborate with us!
 
 ## Contact Us
 
-If you have any questions, suggestions, or would like to discuss a potential project, please feel free to reach out to us at [contact@greendev.com](mailto:contact@greendev.com).
+If you have any questions, suggestions, or would like to discuss a potential project, please feel free to reach out to us at [contact@verdevor.com](mailto:contact@verdevor.com).
 
 We look forward to hearing from you!
